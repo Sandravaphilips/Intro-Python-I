@@ -1,0 +1,3 @@
+So many things to learn about Python
+The syntax, functions, methods and much more
+This too shall pass 
